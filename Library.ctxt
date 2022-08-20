@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Library
+comment0.text=\r\n\ Library\ Class\r\n\r\n\ @author\ Louis\ Pike\r\n\ \r\n
+comment1.params=MaxBooks\ nameoftextbook\ chapters
+comment1.target=Library(int,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Library\r\n
+comment2.params=
+comment2.target=LibraryCard\ issueCard()
+comment3.params=card
+comment3.target=TextBook\ borrowBook(LibraryCard)
+comment4.params=book\ card
+comment4.target=void\ returnBook(TextBook,\ LibraryCard)
+comment5.params=
+comment5.target=void\ describe()
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LibraryCard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LibraryCard\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=limit\ referenceNUM
+comment1.target=LibraryCard(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LibraryCard\r\n
+comment2.params=
+comment2.target=void\ swipe()
+comment3.params=
+comment3.target=boolean\ expired()
+comment4.params=
+comment4.target=java.lang.String\ getCardRef()
+comment5.params=
+comment5.target=void\ describe()
+numComments=6
